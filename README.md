@@ -6,7 +6,13 @@ All participants within our ClojureNauts organisation are required to agree with
 
 ## Need Help?
 
-You have our contact details in the emails we've sent.
+Contact one of the ClojureNauts owners
+
+* [@pxlpnk](https://twitter.com/pxlpnk)
+* [@gregkare](https://twitter.com/gregkare)
+* [daan_van_berkel](https://twitter.com/daan_van_berkel)
+
+Or open an [issue](https://github.com/ClojureNauts/code-of-conduct/issues)
 
 ## The Quick Version
 
