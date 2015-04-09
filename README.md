@@ -10,7 +10,7 @@ Contact one of the ClojureNauts owners
 
 * [@pxlpnk](https://twitter.com/pxlpnk)
 * [@gregkare](https://twitter.com/gregkare)
-* [daan_van_berkel](https://twitter.com/daan_van_berkel)
+* [@daan_van_berkel](https://twitter.com/daan_van_berkel)
 
 Or open an [issue](https://github.com/ClojureNauts/code-of-conduct/issues)
 
