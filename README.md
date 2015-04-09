@@ -24,7 +24,7 @@ Harassment includes offensive verbal comments related to gender, gender identity
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
+Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material.
 
 If a participant engages in harassing behavior, the ClojureNauts organisers may take any action they deem appropriate, including warning the offender or expulsion from the ClojureNauts organisation with no refund.
 
