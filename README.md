@@ -28,9 +28,9 @@ Sponsors are also subject to the anti-harassment policy. In particular, sponsors
 
 If a participant engages in harassing behavior, the ClojureNauts organisers may take any action they deem appropriate, including warning the offender or expulsion from the ClojureNauts organisation with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of ClojureNauts staff immediately.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of ClojureNauts owners immediately.
 
-ClojureNauts staff will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe in the ClojureNauts organisation. We value your contributions.
+ClojureNauts owners will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe in the ClojureNauts organisation. We value your contributions.
 
 We expect participants to follow these rules at ClojureNauts and workshop venues and ClojureNauts-related social events.
 
