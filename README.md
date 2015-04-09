@@ -32,7 +32,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ClojureNauts owners will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe in the ClojureNauts organisation. We value your contributions.
 
-We expect participants to follow these rules at ClojureNauts and workshop venues and ClojureNauts-related social events.
+We expect participants to follow these rules at ClojureNauts entities, workshop venues and ClojureNauts-related social events.
 
 ## Attribution
 
