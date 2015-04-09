@@ -16,7 +16,7 @@ Or open an [issue](https://github.com/ClojureNauts/code-of-conduct/issues)
 
 ## The Quick Version
 
-Our ClojureNauts is dedicated to providing a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of ClojureNauts participants in any form. Sexual language and imagery is not appropriate for any ClojureNauts entity, including repository, issue, wiki, pull-request, comments and others. ClojureNauts participants violating these rules may be sanctioned or expelled from the ClojureNauts organisation the discretion of the ClojureNauts organisers.
+Our ClojureNauts is dedicated to providing a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of ClojureNauts participants in any form. Sexual language and imagery is not appropriate for any ClojureNauts entity, including repository, issue, wiki, pull-request, comments and others. ClojureNauts participants violating these rules may be sanctioned or expelled from the ClojureNauts organisation at the discretion of the ClojureNauts organisers.
 
 ## The Less Quick Version
 
